@@ -13,5 +13,6 @@ import com.rabriel.commons.numericspeech.NumericTranslator;
 import com.rabriel.commons.numericspeech.impl.EnglishNumericTranslator;
 ...
 NumericTranslator numericTranslator = new EnglishNumericTranslator();
-String numericTranslation = numericTranslator.translate(1234567);
+String numericTranslation = numericTranslator.translate(1234567); 
+//one million two hundred thirty four thousands five hundred and sixty seven
 ```
